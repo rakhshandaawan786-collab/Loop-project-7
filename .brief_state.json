@@ -1,0 +1,5 @@
+{
+  "sample_repo/app.py::add retry logic for db writes": 12,
+  "sample_repo/app.py::validate input before processing": 8,
+  "sample_repo/utils.py::write unit tests for this function": 2
+}
