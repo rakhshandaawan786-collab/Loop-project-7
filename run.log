@@ -1,0 +1,5 @@
+[2026-09-13 16:26:41] ERROR: run FAILED — FileNotFoundError: REPO_DIR does not exist: 'sample_repo_MISSING'
+[2026-09-13 16:27:01] OK: run succeeded — 3 TODOs tracked, 3 new, 0 resolved
+[2026-09-13 16:27:01] OK: run succeeded — 3 TODOs tracked, 0 new, 0 resolved
+[2026-09-13 16:27:01] OK: run succeeded — 3 TODOs tracked, 0 new, 0 resolved
+[2026-09-13 16:27:01] ERROR: hit cap of 3 tries — success condition ('0 TODOs') never met
